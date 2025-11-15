@@ -12,10 +12,17 @@ Word count options 5 - 10 - 15 - 20 - 25 words
 
 neuromancer.txt – 13k lowercase words without punctuation from William Gibson's Neuromancer
 
+WPM formula from monkeytype.com:
+
+```python
+wpm = (correct_chars / 5) * (60 / time_seconds)
+```
+
 ## Requirements
 https://github.com/sw7ft/BerryCore/https://github.com/sw7ft/BerryCore/ is required
 
-Tested in Term49, font_size = 50 is recommended. The font size is not configurable inside the app
+Tested in Term49\
+font_size = 50 is recommended
 
 ## Installation
-clone the repo, run `python app.py` 
+Clone the repo, run `python app.py` 
