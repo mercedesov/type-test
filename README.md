@@ -19,7 +19,7 @@ wpm = (correct_chars / 5) * (60 / time_seconds)
 ```
 
 ## Requirements
-https://github.com/sw7ft/BerryCore/https://github.com/sw7ft/BerryCore/ is required
+https://github.com/sw7ft/BerryCore/ is required
 
 Tested in Term49\
 font_size = 50 is recommended
